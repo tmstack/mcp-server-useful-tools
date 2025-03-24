@@ -2,7 +2,7 @@
 
 - SpringBoot 3.3.6
 - Spring AI 1.0.0-SNAPSHOT
-  Model Context Protocol (MCP)
+- Model Context Protocol (MCP)
 - Maven 3.9.9
 - JDK 17
 
