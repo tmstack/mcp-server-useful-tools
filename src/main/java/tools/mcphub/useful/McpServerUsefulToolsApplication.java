@@ -8,6 +8,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 import tools.mcphub.useful.service.WeatherService;
+import tools.mcphub.useful.service.StockService;
 
 @SpringBootApplication
 public class McpServerUsefulToolsApplication {
@@ -19,6 +20,11 @@ public class McpServerUsefulToolsApplication {
 	@Bean
 	public ToolCallbackProvider weatherTools(WeatherService weatherService) {
 		return MethodToolCallbackProvider.builder().toolObjects(weatherService).build();
+	}
+
+	@Bean
+	public ToolCallbackProvider stockTools(StockService stockService) {
+		return MethodToolCallbackProvider.builder().toolObjects(stockService).build();
 	}
 
 	public record TextInput(String input) {
