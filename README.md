@@ -6,11 +6,13 @@
 - Maven 3.9.9
 - JDK 17
 
+## Weather MCP,
+
 ## SSE
 
 http://127.0.0.1:8080/sse
 
-## Weather tool
+***Weather MCP, Stock MCP***
 
 ---
 Q:
