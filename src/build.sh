@@ -1,0 +1,1 @@
+docker build -f ./Dockerfile -t tmstack/mcp-server-useful-tools:latest .
