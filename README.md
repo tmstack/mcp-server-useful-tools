@@ -95,3 +95,5 @@ A:
 ===========================
 
 ---
+MCP Servers Hub:
+https://mcphub.tools
