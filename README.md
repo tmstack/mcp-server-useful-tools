@@ -100,3 +100,7 @@ A:
 This platform is your centralized gateway to exploring, implementing, and innovating with the Model Context Protocol (MCP).
 
 https://mcphub.tools
+
+Your Platform to Discover Indie Hacker Tools & Products.
+
+https://indiehackerhub.com
