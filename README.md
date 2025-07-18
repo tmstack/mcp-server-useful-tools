@@ -101,6 +101,6 @@ This platform is your centralized gateway to exploring, implementing, and innova
 
 https://mcphub.tools
 
-Your Platform to Discover Indie Hacker Tools & Products.
+Explore reusable n8n workflow automation templates to easily automate your work.
 
-https://indiehackerhub.com
+https://n8ntemplates.dev
